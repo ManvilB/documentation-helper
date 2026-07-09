@@ -64,4 +64,3 @@ if prompt:
         except Exception as e:
             st.error("Failed to generate a response.")
             st.exception(e)
-
